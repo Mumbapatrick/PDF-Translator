@@ -51,8 +51,8 @@ Pillow
 
 Clone or upload the project:
 
-git clone https://github.com/yourusername/multilanguage-pdf-translator.git
-cd multilanguage-pdf-translator
+git clone https://github.com/Mumbapatrick/PDF-Translator.git 
+cd pdf_translator
 
 
 Install required libraries:
