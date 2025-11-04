@@ -52,6 +52,7 @@ Pillow
 Clone or upload the project:
 
 git clone https://github.com/Mumbapatrick/PDF-Translator.git 
+
 cd pdf_translator
 
 
